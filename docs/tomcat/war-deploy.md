@@ -26,7 +26,7 @@ chown tomcat8:tomcat8 exam31
 drwxr-x--- 4 tomcat8 tomcat8 4096  6월 29 01:02 exam31
 ```
 
-#### 4. tomcat 재시작  
+#### 4. tomcat 재시작할 필요 없음.  
 ```
 systemctl reload tomcat8
 ```
