@@ -6,6 +6,12 @@
 
 ### Spring Boot  
 
+## [controller]  
+
+#### @Valid 사용자 입력에 대한 유효성을 검증!   
+
+
+
 #### [database](https://github.com/horoyoiiv/spring/blob/master/docs/boot/database.md)  
 
 
